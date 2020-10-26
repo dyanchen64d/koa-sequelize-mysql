@@ -1,0 +1,17 @@
+{
+  "name": "koa-sequelize-mysql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:syoutomoushimasu/koa-sequelize-mysql.git",
+  "author": "chen.zhang <zhangchen64d@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.6",
+    "sequelize": "^6.3.5"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
